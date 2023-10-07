@@ -44,7 +44,7 @@ if(isset($_GET['logout'])){
 	<br>
 	<br>
 		<a class="w">We prioritise your</a>
-		<h1>NEW SMILE</h1>
+		<h1>NEW dayyyyyyy</h1>
         <!--<button class="ta" href="#">Read more</button>-->
 		</div>
 		</div>
